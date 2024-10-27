@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Brazil contest Privacy Policy
 layout: page.njk
 ---
 
