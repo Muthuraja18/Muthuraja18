@@ -1,5 +1,5 @@
 ---
-title: Most AWE.SOME Features
+title: Most Brazil AWE.SOME Features
 afterTitle: ...and so much more!
 type: features
 ---
